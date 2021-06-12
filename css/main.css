@@ -175,7 +175,7 @@ body {
 }
 
 .modal-close__btn:hover, .modal-close__btn:focus {
-  fill: accent-color;
+  fill: #2196f3;
 }
 
 .modal-close__icon {
