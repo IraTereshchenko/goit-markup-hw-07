@@ -28,8 +28,8 @@ img {
 }
 
 body {
-  color: var(--main-color);
-  font-family: var(--main-font);
+  color: $main-color;
+  font-family: $main-font;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
