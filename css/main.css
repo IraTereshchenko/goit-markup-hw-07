@@ -175,7 +175,7 @@ body {
 }
 
 .modal-close__btn:hover, .modal-close__btn:focus {
-  fill: .modal-close__btn:hover, .modal-close__btn:focus accent-color;
+  fill: accent-color;
 }
 
 .modal-close__icon {
@@ -265,7 +265,7 @@ body {
   width: 16px;
   height: 15px;
   cursor: pointer;
-  border: 2px solid .modal-form__policy::before main-color;
+  border: 2px solid #212121;
   margin-right: 7px;
 }
 
